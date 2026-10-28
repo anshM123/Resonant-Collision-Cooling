@@ -1,0 +1,10 @@
+infinite: 0  nonzero support: 316224  exact-g movers: 176256
+top distinct h^2 values (value, value/6, count):
+   12 2.0 1296
+   15/2 1.25 2592
+   6 1.0 3888
+   57/10 0.95 2592
+   21/4 0.875 2592
+   24/5 0.8 12960
+pi_A h^2 = (Fraction(12, 1), True)
+full swap h^2 = (Fraction(6, 1), True)

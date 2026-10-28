@@ -1,0 +1,31 @@
+beta=  0.020   exact hull ratio in [0.711961, 0.711961]   (gap 5.1e-10; support attained by ((np.int64(0), np.int64(6), np.int64(7), np.int64(3), np.int64(4), np.int64(5), np.int64(1), np.int64(2), np.int64(8)), None))
+beta=  0.050   exact hull ratio in [0.719762, 0.719762]   (gap 4.7e-09; support attained by ((np.int64(7), np.int64(8), np.int64(2), np.int64(3), np.int64(4), np.int64(5), np.int64(6), np.int64(0), np.int64(1)), None))
+beta=  0.100   exact hull ratio in [0.734091, 0.734091]   (gap 4.4e-09; support attained by ((np.int64(0), np.int64(8), np.int64(6), np.int64(3), np.int64(4), np.int64(5), np.int64(2), np.int64(7), np.int64(1)), None))
+beta=  0.200   exact hull ratio in [0.767222, 0.767222]   (gap 3.5e-09; support attained by ((np.int64(0), np.int64(8), np.int64(6), np.int64(3), np.int64(4), np.int64(5), np.int64(2), np.int64(7), np.int64(1)), None))
+beta=  0.300   exact hull ratio in [0.805130, 0.805130]   (gap 6.5e-10; support attained by ((np.int64(0), np.int64(8), np.int64(6), np.int64(3), np.int64(4), np.int64(5), np.int64(2), np.int64(7), np.int64(1)), None))
+beta=  0.400   exact hull ratio in [0.846201, 0.846201]   (gap 3.4e-10; support attained by ((np.int64(0), np.int64(5), np.int64(3), np.int64(2), np.int64(4), np.int64(1), np.int64(6), np.int64(7), np.int64(8)), None))
+beta=  0.500   exact hull ratio in [0.886585, 0.886585]   (gap 2.2e-10; support attained by ((np.int64(4), np.int64(1), np.int64(3), np.int64(7), np.int64(0), np.int64(5), np.int64(6), np.int64(2), np.int64(8)), None))
+beta=  0.700   exact hull ratio in [0.954854, 0.954854]   (gap 2.8e-10; support attained by ((np.int64(4), np.int64(1), np.int64(3), np.int64(7), np.int64(0), np.int64(5), np.int64(6), np.int64(2), np.int64(8)), None))
+beta=  1.000   exact hull ratio in [0.995230, 0.995230]   (gap 3.1e-09; support attained by ((np.int64(2), np.int64(1), np.int64(7), np.int64(3), np.int64(4), np.int64(5), np.int64(6), np.int64(0), np.int64(8)), None))
+beta=  1.300   exact hull ratio in [0.999593, 0.999593]   (gap 6.5e-09; support attained by ((np.int64(0), np.int64(3), np.int64(6), np.int64(1), np.int64(4), np.int64(7), np.int64(2), np.int64(5), np.int64(8)), None))
+beta=  1.600   exact hull ratio in [1.000000, 1.000000]   (gap 1.5e-09; support attained by ((np.int64(0), np.int64(3), np.int64(6), np.int64(1), np.int64(4), np.int64(7), np.int64(2), np.int64(5), np.int64(8)), None))
+beta=  2.000   exact hull ratio in [1.000000, 1.000000]   (gap 1.0e-08; support attained by swap)
+beta=  2.500   exact hull ratio in [0.979559, 0.979559]   (gap 2.0e-09; support attained by ((np.int64(8), np.int64(5), np.int64(2), np.int64(7), np.int64(0), np.int64(1), np.int64(6), np.int64(3), np.int64(4)), None))
+beta=  3.000   exact hull ratio in [0.923688, 0.923688]   (gap 1.2e-09; support attained by ((np.int64(0), np.int64(3), np.int64(6), np.int64(1), np.int64(2), np.int64(7), np.int64(4), np.int64(5), np.int64(8)), None))
+beta=  3.500   exact hull ratio in [0.871848, 0.871848]   (gap 6.3e-09; support attained by ((np.int64(4), np.int64(1), np.int64(7), np.int64(2), np.int64(0), np.int64(6), np.int64(5), np.int64(3), np.int64(8)), None))
+beta=  4.000   exact hull ratio in [0.831299, 0.831299]   (gap 3.9e-09; support attained by ((np.int64(7), np.int64(1), np.int64(4), np.int64(8), np.int64(2), np.int64(0), np.int64(6), np.int64(5), np.int64(3)), None))
+beta=  5.000   exact hull ratio in [0.777226, 0.777226]   (gap 7.7e-09; support attained by ((np.int64(5), np.int64(0), np.int64(2), np.int64(8), np.int64(3), np.int64(1), np.int64(6), np.int64(7), np.int64(4)), None))
+Traceback (most recent call last):
+  File "C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\cooling_qudit\c22_hull_bounds.py", line 96, in <module>
+    up, lo, arg = bounds(b, fam)
+                  ^^^^^^^^^^^^^^
+  File "C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\cooling_qudit\c22_hull_bounds.py", line 57, in bounds
+    prob.solve(solver=cp.CLARABEL)
+  File "C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\.venv\Lib\site-packages\cvxpy\problems\problem.py", line 687, in solve
+    return solve_func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\.venv\Lib\site-packages\cvxpy\problems\problem.py", line 1148, in _solve
+    self.unpack_results(solution, solving_chain, inverse_data)
+  File "C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\.venv\Lib\site-packages\cvxpy\problems\problem.py", line 1453, in unpack_results
+    raise error.SolverError(
+cvxpy.error.SolverError: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.

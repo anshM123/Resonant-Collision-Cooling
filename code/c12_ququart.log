@@ -1,0 +1,35 @@
+C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\cooling_qudit\c12_resonant_d.py:92: UserWarning: Objective contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  prob = cp.Problem(cp.Minimize(sum(cp.norm(u, 2) for u in us)), cons)
+C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\cooling_qudit\c12_resonant_d.py:92: UserWarning: Constraint #0 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  prob = cp.Problem(cp.Minimize(sum(cp.norm(u, 2) for u in us)), cons)
+C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\cooling_qudit\c12_resonant_d.py:93: UserWarning: Constraint #8226 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  prob.solve(solver=cp.CLARABEL)
+d=4 beta=0.05: mechanisms=8162  gauge ratio=0.845484  cost ratio=0.714843  status=optimal
+C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\cooling_qudit\c12_resonant_d.py:92: UserWarning: Objective contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  prob = cp.Problem(cp.Minimize(sum(cp.norm(u, 2) for u in us)), cons)
+C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\cooling_qudit\c12_resonant_d.py:92: UserWarning: Constraint #0 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  prob = cp.Problem(cp.Minimize(sum(cp.norm(u, 2) for u in us)), cons)
+C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\cooling_qudit\c12_resonant_d.py:93: UserWarning: Constraint #8226 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  prob.solve(solver=cp.CLARABEL)
+d=4 beta=0.5: mechanisms=8162  gauge ratio=0.894200  cost ratio=0.799593  status=optimal
+C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\cooling_qudit\c12_resonant_d.py:92: UserWarning: Objective contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  prob = cp.Problem(cp.Minimize(sum(cp.norm(u, 2) for u in us)), cons)
+C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\cooling_qudit\c12_resonant_d.py:92: UserWarning: Constraint #0 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  prob = cp.Problem(cp.Minimize(sum(cp.norm(u, 2) for u in us)), cons)
+C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\cooling_qudit\c12_resonant_d.py:93: UserWarning: Constraint #8226 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  prob.solve(solver=cp.CLARABEL)
+d=4 beta=1.0: mechanisms=8162  gauge ratio=0.973052  cost ratio=0.946830  status=optimal
+C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\cooling_qudit\c12_resonant_d.py:92: UserWarning: Objective contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  prob = cp.Problem(cp.Minimize(sum(cp.norm(u, 2) for u in us)), cons)
+C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\cooling_qudit\c12_resonant_d.py:92: UserWarning: Constraint #0 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  prob = cp.Problem(cp.Minimize(sum(cp.norm(u, 2) for u in us)), cons)
+C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\cooling_qudit\c12_resonant_d.py:93: UserWarning: Constraint #8226 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  prob.solve(solver=cp.CLARABEL)
+d=4 beta=2.0: mechanisms=8162  gauge ratio=0.957273  cost ratio=0.916372  status=optimal
+C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\cooling_qudit\c12_resonant_d.py:92: UserWarning: Objective contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  prob = cp.Problem(cp.Minimize(sum(cp.norm(u, 2) for u in us)), cons)
+C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\cooling_qudit\c12_resonant_d.py:92: UserWarning: Constraint #0 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  prob = cp.Problem(cp.Minimize(sum(cp.norm(u, 2) for u in us)), cons)
+C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\cooling_qudit\c12_resonant_d.py:93: UserWarning: Constraint #8206 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  prob.solve(solver=cp.CLARABEL)
+d=4 beta=4.0: mechanisms=8139  gauge ratio=0.720124  cost ratio=0.518578  status=optimal

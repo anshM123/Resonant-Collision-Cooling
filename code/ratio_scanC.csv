@@ -1,0 +1,35 @@
+5.0000,0.776455,714
+6.0000,0.743718,714
+WARNING negative cost eigenvalue [-1.16415322e-10  1.20370092e+06] (np.int64(0), np.int64(1), np.int64(6), np.int64(3), np.int64(4), np.int64(5), np.int64(2), np.int64(7), np.int64(8))
+WARNING negative cost eigenvalue [-1.16415322e-10  1.20423780e+06] (np.int64(0), np.int64(1), np.int64(6), np.int64(3), np.int64(4), np.int64(5), np.int64(2), np.int64(7), np.int64(8))
+WARNING negative cost eigenvalue [-1.16415322e-10  1.20250280e+06] (np.int64(0), np.int64(1), np.int64(6), np.int64(3), np.int64(4), np.int64(5), np.int64(2), np.int64(7), np.int64(8))
+WARNING negative cost eigenvalue [-1.74622983e-10  1.20416223e+06] (np.int64(0), np.int64(1), np.int64(6), np.int64(3), np.int64(4), np.int64(5), np.int64(2), np.int64(7), np.int64(8))
+7.0000,0.724724,714
+WARNING negative cost eigenvalue [-9.31322575e-10  8.88909148e+06] (np.int64(0), np.int64(1), np.int64(6), np.int64(3), np.int64(4), np.int64(5), np.int64(2), np.int64(7), np.int64(8))
+WARNING negative cost eigenvalue [-9.31322575e-10  8.89363081e+06] (np.int64(0), np.int64(1), np.int64(6), np.int64(3), np.int64(4), np.int64(5), np.int64(2), np.int64(7), np.int64(8))
+WARNING negative cost eigenvalue [-9.31322575e-10  8.89034618e+06] (np.int64(0), np.int64(1), np.int64(7), np.int64(3), np.int64(4), np.int64(5), np.int64(6), np.int64(2), np.int64(8))
+8.0000,0.714694,714
+WARNING negative cost eigenvalue [-4.47034836e-08  4.85198015e+08] (np.int64(0), np.int64(1), np.int64(6), np.int64(3), np.int64(4), np.int64(5), np.int64(2), np.int64(7), np.int64(8))
+WARNING negative cost eigenvalue [-5.96046448e-08  4.85220773e+08] (np.int64(0), np.int64(1), np.int64(6), np.int64(3), np.int64(4), np.int64(5), np.int64(2), np.int64(7), np.int64(8))
+WARNING negative cost eigenvalue [-4.47034836e-08  4.85163136e+08] (np.int64(0), np.int64(1), np.int64(6), np.int64(3), np.int64(4), np.int64(5), np.int64(2), np.int64(7), np.int64(8))
+WARNING negative cost eigenvalue [-4.47034836e-08  4.85226239e+08] (np.int64(0), np.int64(1), np.int64(6), np.int64(3), np.int64(4), np.int64(5), np.int64(2), np.int64(7), np.int64(8))
+WARNING negative cost eigenvalue [-7.45058060e-08  4.85196496e+08] (np.int64(0), np.int64(1), np.int64(6), np.int64(3), np.int64(4), np.int64(5), np.int64(2), np.int64(7), np.int64(8))
+WARNING negative cost eigenvalue [-1.19209290e-07  1.45542951e+09] (np.int64(0), np.int64(1), np.int64(6), np.int64(3), np.int64(4), np.int64(5), np.int64(7), np.int64(2), np.int64(8))
+WARNING negative cost eigenvalue [-1.49011612e-08  4.85187222e+08] (np.int64(0), np.int64(1), np.int64(7), np.int64(3), np.int64(4), np.int64(5), np.int64(6), np.int64(2), np.int64(8))
+WARNING negative cost eigenvalue [-1.49011612e-08  4.85220773e+08] (np.int64(0), np.int64(1), np.int64(7), np.int64(3), np.int64(4), np.int64(5), np.int64(6), np.int64(2), np.int64(8))
+10.0000,0.707139,714
+WARNING negative cost eigenvalue [-3.81469727e-06  2.64895328e+10] (np.int64(0), np.int64(1), np.int64(6), np.int64(3), np.int64(4), np.int64(5), np.int64(2), np.int64(7), np.int64(8))
+WARNING negative cost eigenvalue [-1.90734863e-06  2.64893534e+10] (np.int64(0), np.int64(1), np.int64(6), np.int64(3), np.int64(4), np.int64(5), np.int64(2), np.int64(7), np.int64(8))
+WARNING negative cost eigenvalue [-2.86102295e-06  2.64893646e+10] (np.int64(0), np.int64(1), np.int64(7), np.int64(3), np.int64(4), np.int64(5), np.int64(6), np.int64(2), np.int64(8))
+WARNING negative cost eigenvalue [-1.90734863e-06  2.64895732e+10] (np.int64(0), np.int64(1), np.int64(7), np.int64(3), np.int64(4), np.int64(5), np.int64(6), np.int64(2), np.int64(8))
+12.0000,0.706346,714
+WARNING negative cost eigenvalue [-1.16415322e-10  1.20646904e+06] (np.int64(0), np.int64(1), np.int64(3), np.int64(2), np.int64(4), np.int64(5), np.int64(6), np.int64(7), np.int64(8))
+WARNING negative cost eigenvalue [-3.49245965e-10  3.60781385e+06] (np.int64(0), np.int64(1), np.int64(3), np.int64(2), np.int64(4), np.int64(5), np.int64(7), np.int64(6), np.int64(8))
+WARNING negative cost eigenvalue [-1.74622983e-10  1.20647204e+06] (np.int64(0), np.int64(1), np.int64(3), np.int64(2), np.int64(4), np.int64(6), np.int64(5), np.int64(7), np.int64(8))
+WARNING negative cost eigenvalue [-1.16415322e-10  3.60781885e+06] (np.int64(0), np.int64(1), np.int64(3), np.int64(2), np.int64(4), np.int64(7), np.int64(6), np.int64(5), np.int64(8))
+WARNING negative cost eigenvalue [-3.49245965e-10  3.60781885e+06] (np.int64(0), np.int64(1), np.int64(4), np.int64(3), np.int64(2), np.int64(6), np.int64(5), np.int64(7), np.int64(8))
+WARNING negative cost eigenvalue [-3.49245965e-10  3.60781885e+06] (np.int64(0), np.int64(1), np.int64(4), np.int64(3), np.int64(2), np.int64(6), np.int64(7), np.int64(5), np.int64(8))
+WARNING negative cost eigenvalue [-2.32830644e-10  3.60781885e+06] (np.int64(0), np.int64(1), np.int64(4), np.int64(3), np.int64(2), np.int64(7), np.int64(5), np.int64(6), np.int64(8))
+WARNING negative cost eigenvalue [-2.32830644e-10  1.21539530e+06] (np.int64(0), np.int64(1), np.int64(4), np.int64(3), np.int64(2), np.int64(7), np.int64(6), np.int64(5), np.int64(8))
+WARNING negative cost eigenvalue [-1.22070312e-04  1.44625695e+12] (np.int64(0), np.int64(1), np.int64(7), np.int64(3), np.int64(4), np.int64(5), np.int64(6), np.int64(2), np.int64(8))
+14.0000,0.706789,714

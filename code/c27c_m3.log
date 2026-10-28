@@ -1,0 +1,6 @@
+restart 0: LP R - bound = -7.066e-09;  50-digit exact mixture: excess = -7.06564e-9, min P = 1.0e-7, residual = 2.5e-51, q = [0.33329 0.33338 0.33333]
+restart 1: LP R - bound = -2.896e-10;  50-digit exact mixture: excess = -2.89592e-10, min P = 1.056e-9, residual = 1.34e-51, q = [0.66666 0.33334 0.     ]
+restart 3: LP R - bound = -6.924e-09;  50-digit exact mixture: excess = -6.92372e-9, min P = 1.0e-7, residual = 3.34e-51, q = [0.33339 0.33328 0.33333]
+restart 4: LP R - bound = -2.269e-10;  50-digit exact mixture: excess = -2.27515e-8, min P = 1.643e-9, residual = 7.96e-46, q = [0. 0. 1.]
+restart 5: LP R - bound = +1.522e-08;  50-digit exact mixture: excess = -3.52274e-9, min P = 1.78e-9, residual = 2.0e-43, q = [1. 0. 0.]
+m=3: largest exact excess over 1-1/m among valid mixtures = -2.89592e-10

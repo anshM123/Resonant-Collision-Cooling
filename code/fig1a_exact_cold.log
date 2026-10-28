@@ -1,0 +1,21 @@
+C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\cooling_qudit\c22b_hull_bounds_stable.py:76: UserWarning: Objective contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  cp.Problem(cp.Minimize(obj), con).solve(solver=cp.CLARABEL)
+beta=  6.000   exact hull ratio in [0.747095, 0.747095]   (gap 3.8e-08; support attained by ((0, 2, 3, 1, 5, 6, 4, 7, 8), None))
+beta=  7.000   exact hull ratio in [0.730291, 0.730291]   (gap 6.1e-09; support attained by ((1, 5, 2, 4, 8, 0, 6, 7, 3), None))
+beta=  8.000   exact hull ratio in [0.720747, 0.720747]   (gap 2.4e-09; support attained by ((2, 1, 4, 5, 0, 7, 6, 3, 8), None))
+beta=  9.000   exact hull ratio in [0.715219, 0.715219]   (gap -1.8e-09; support attained by ((1, 5, 2, 4, 8, 0, 6, 7, 3), None))
+beta= 10.000   exact hull ratio in [0.711966, 0.711967]   (gap 1.0e-07; support attained by ((2, 1, 4, 5, 0, 7, 6, 3, 8), None))
+Traceback (most recent call last):
+  File "C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\cooling_qudit\c22b_hull_bounds_stable.py", line 104, in <module>
+    up, lo, arg = bounds(b, fam)
+                  ^^^^^^^^^^^^^^
+  File "C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\cooling_qudit\c22b_hull_bounds_stable.py", line 76, in bounds
+    cp.Problem(cp.Minimize(obj), con).solve(solver=cp.CLARABEL)
+  File "C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\.venv\Lib\site-packages\cvxpy\problems\problem.py", line 687, in solve
+    return solve_func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\.venv\Lib\site-packages\cvxpy\problems\problem.py", line 1148, in _solve
+    self.unpack_results(solution, solving_chain, inverse_data)
+  File "C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\.venv\Lib\site-packages\cvxpy\problems\problem.py", line 1453, in unpack_results
+    raise error.SolverError(
+cvxpy.error.SolverError: Solver 'CLARABEL' failed. Try another solver, or solve with verbose=True for more information.

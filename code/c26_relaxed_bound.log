@@ -1,0 +1,9 @@
+trial 12: m=3 k=5 F/G max = 0.028415, (1-1/m) = 0.6667, normalised = 0.042622
+trial 27: m=2 k=4 F/G max = 0.283797, (1-1/m) = 0.5000, normalised = 0.567593
+trial 29: m=3 k=4 F/G max = 0.535915, (1-1/m) = 0.6667, normalised = 0.803872
+trial 33: m=2 k=2 F/G max = 0.500000, (1-1/m) = 0.5000, normalised = 1.000000
+trial 38: m=2 k=3 F/G max = 0.500000, (1-1/m) = 0.5000, normalised = 1.000000
+trial 58: m=2 k=6 F/G max = 0.500000, (1-1/m) = 0.5000, normalised = 1.000000
+trial 383: m=2 k=4 F/G max = 0.500000, (1-1/m) = 0.5000, normalised = 1.000000
+trial 1079: m=2 k=6 F/G max = 0.500000, (1-1/m) = 0.5000, normalised = 1.000000
+worst normalised (<=1 means claim holds): 1.0000000000000009

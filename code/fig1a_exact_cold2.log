@@ -1,0 +1,11 @@
+C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\cooling_qudit\c22b_hull_bounds_stable.py:80: UserWarning: Objective contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  prob = cp.Problem(cp.Minimize(obj), con)
+  CLARABEL failed; retrying with SCS
+C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\cooling_qudit\c22b_hull_bounds_stable.py:85: UserWarning: Solution may be inaccurate. Try another solver, adjusting the solver settings, or solve with verbose=True for more information.
+  prob.solve(solver=cp.SCS, eps=1e-10, max_iters=200000)
+beta= 12.000   exact hull ratio in [0.708873, 0.708873]   (gap 1.5e-07; support attained by ((1, 5, 2, 4, 8, 0, 6, 7, 3), None))
+C:\Users\anshm\Downloads\BREAKTHROUGH LE OPUS\cooling_qudit\c22b_hull_bounds_stable.py:82: UserWarning: Solution may be inaccurate. Try another solver, adjusting the solver settings, or solve with verbose=True for more information.
+  prob.solve(solver=cp.CLARABEL)
+beta= 14.000   exact hull ratio in [0.707730, 0.708096]   (gap 3.7e-04; support attained by ((1, 5, 2, 4, 8, 0, 6, 7, 3), None))
+  CLARABEL failed; retrying with SCS
+beta= 16.000   exact hull ratio in [0.000000, 0.707344]   (gap 7.1e-01; support attained by ((0, 2, 1, 7, 4, 5, 6, 3, 8), None))

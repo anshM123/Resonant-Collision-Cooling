@@ -1,0 +1,7 @@
+resonant movers on Gibbs curve: 594  with families: 24
+beta*omega=0.05: max lambda = 1.99875130076  best-2 = -0.0012487  (bound 2)  infinite=0  min weight seen=3.97e-40  argmax pi=(0, 1, 2, 3, 8, 6, 5, 7, 4) q=['0.3501', '0.3168', '0.3331']
+beta*omega=6.0: max lambda = 1.99996313563  best-2 = -3.68644e-5  (bound 2)  infinite=0  min weight seen=2.08e-60  argmax pi=(1, 8, 2, 3, 4, 5, 6, 7, 0) q=['6.144e-6', '6.144e-6', '1.0']
+beta*omega=12.0: max lambda = 1.99999999977  best-2 = -2.26508e-10  (bound 2)  infinite=0  min weight seen=6.83e-76  argmax pi=(1, 8, 2, 3, 4, 5, 6, 7, 0) q=['3.775e-11', '3.775e-11', '1.0']
+beta*omega=16.0: max lambda = 2.0  best-2 = -7.5985e-14  (bound 2)  infinite=0  min weight seen=6.0e-79  argmax pi=(0, 2, 6, 3, 4, 5, 1, 7, 8) q=['1.0', '1.266e-14', '1.266e-14']
+beta*omega=24.0: max lambda = 2.0  best-2 = -8.55098e-21  (bound 2)  infinite=0  min weight seen=5.13e-86  argmax pi=(0, 6, 1, 3, 4, 5, 2, 7, 8) q=['1.0', '1.425e-21', '1.425e-21']
+beta*omega=40.0: max lambda = 2.0  best-2 = -1.08291e-34  (bound 2)  infinite=0  min weight seen=5.13e-124  argmax pi=(0, 2, 6, 3, 4, 5, 1, 7, 8) q=['1.0', '1.805e-35', '1.805e-35']

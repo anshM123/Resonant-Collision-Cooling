@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Finite-resource cooling of qudits beyond thermodynamic length"
+authors:
+  - family-names: Mishra
+    given-names: Ansh
+  - family-names: Senthilkumar
+    given-names: Aryan
+date-released: 2026-10-28
+license: MIT
+repository-code: "https://github.com/anshM123/Resonant-Collision-Cooling"
+keywords:
+  - quantum thermodynamics
+  - finite-resource cooling
+  - collision models
+  - thermodynamic length
+  - Landauer bound

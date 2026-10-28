@@ -1,0 +1,24 @@
+  beta=0.02 R=True: second-order-free move for [np.int64(0), np.int64(1), np.int64(3), np.int64(2), np.int64(4), np.int64(6), np.int64(5), np.int64(7), np.int64(8)]: delta = [-0. -0.  0.]
+  beta=0.02 R=True: second-order-free move for [np.int64(0), np.int64(1), np.int64(3), np.int64(2), np.int64(4), np.int64(6), np.int64(5), np.int64(7), np.int64(8)]: delta = [-0. -0.  0.]
+  beta=0.02 R=True: second-order-free move for [np.int64(0), np.int64(1), np.int64(3), np.int64(2), np.int64(4), np.int64(6), np.int64(5), np.int64(7), np.int64(8)]: delta = [-0. -0.  0.]
+beta=  0.02: hull ratio exact-resonant = 0.711961, with free normal offsets = 0.710967   (mechanisms with a second-order-free move: 52)
+  beta=0.1 R=True: second-order-free move for [np.int64(0), np.int64(1), np.int64(3), np.int64(2), np.int64(4), np.int64(6), np.int64(5), np.int64(7), np.int64(8)]: delta = [-0.  0.  0.]
+  beta=0.1 R=True: second-order-free move for [np.int64(0), np.int64(1), np.int64(3), np.int64(2), np.int64(4), np.int64(6), np.int64(5), np.int64(7), np.int64(8)]: delta = [ 0. -0. -0.]
+  beta=0.1 R=True: second-order-free move for [np.int64(0), np.int64(1), np.int64(3), np.int64(2), np.int64(4), np.int64(6), np.int64(5), np.int64(7), np.int64(8)]: delta = [ 0. -0.  0.]
+beta=  0.10: hull ratio exact-resonant = 0.734091, with free normal offsets = 0.729665   (mechanisms with a second-order-free move: 52)
+  beta=0.5 R=True: second-order-free move for [np.int64(0), np.int64(1), np.int64(3), np.int64(2), np.int64(4), np.int64(6), np.int64(5), np.int64(7), np.int64(8)]: delta = [ 0. -0. -0.]
+  beta=0.5 R=True: second-order-free move for [np.int64(0), np.int64(1), np.int64(3), np.int64(2), np.int64(4), np.int64(6), np.int64(5), np.int64(7), np.int64(8)]: delta = [ 0. -0. -0.]
+  beta=0.5 R=True: second-order-free move for [np.int64(0), np.int64(1), np.int64(3), np.int64(2), np.int64(4), np.int64(6), np.int64(5), np.int64(7), np.int64(8)]: delta = [ 0. -0. -0.]
+beta=  0.50: hull ratio exact-resonant = 0.886585, with free normal offsets = 0.877793   (mechanisms with a second-order-free move: 52)
+  beta=1.6 R=True: second-order-free move for [np.int64(0), np.int64(1), np.int64(3), np.int64(2), np.int64(4), np.int64(6), np.int64(5), np.int64(7), np.int64(8)]: delta = [-0.  0.  0.]
+  beta=1.6 R=True: second-order-free move for [np.int64(0), np.int64(1), np.int64(3), np.int64(2), np.int64(4), np.int64(6), np.int64(5), np.int64(7), np.int64(8)]: delta = [-0.  0.  0.]
+  beta=1.6 R=True: second-order-free move for [np.int64(0), np.int64(1), np.int64(3), np.int64(2), np.int64(4), np.int64(6), np.int64(5), np.int64(7), np.int64(8)]: delta = [ 0. -0. -0.]
+beta=  1.60: hull ratio exact-resonant = 1.000000, with free normal offsets = 1.000000   (mechanisms with a second-order-free move: 44)
+  beta=4.0 R=True: second-order-free move for [np.int64(0), np.int64(1), np.int64(3), np.int64(2), np.int64(4), np.int64(6), np.int64(5), np.int64(7), np.int64(8)]: delta = [ 0. -0.  0.]
+  beta=4.0 R=True: second-order-free move for [np.int64(0), np.int64(1), np.int64(3), np.int64(2), np.int64(4), np.int64(6), np.int64(5), np.int64(7), np.int64(8)]: delta = [ 0. -0. -0.]
+  beta=4.0 R=True: second-order-free move for [np.int64(0), np.int64(1), np.int64(3), np.int64(2), np.int64(4), np.int64(6), np.int64(5), np.int64(7), np.int64(8)]: delta = [ 0. -0. -0.]
+beta=  4.00: hull ratio exact-resonant = 0.831299, with free normal offsets = 0.801378   (mechanisms with a second-order-free move: 20)
+  beta=8.0 R=False: second-order-free move for [np.int64(0), np.int64(1), np.int64(3), np.int64(2), np.int64(4), np.int64(6), np.int64(7), np.int64(5), np.int64(8)]: delta = [ 0. -0.  0.]
+  beta=8.0 R=False: second-order-free move for [np.int64(0), np.int64(1), np.int64(3), np.int64(2), np.int64(4), np.int64(7), np.int64(5), np.int64(6), np.int64(8)]: delta = [ 0. -0. -0.]
+  beta=8.0 R=False: second-order-free move for [np.int64(0), np.int64(1), np.int64(3), np.int64(2), np.int64(4), np.int64(7), np.int64(6), np.int64(5), np.int64(8)]: delta = [ 0. -0.  0.]
+beta=  8.00: hull ratio exact-resonant = 0.720748, with free normal offsets = 0.709940   (mechanisms with a second-order-free move: 80)

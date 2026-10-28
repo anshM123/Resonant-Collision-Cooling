@@ -1,0 +1,4 @@
+d=3 dM=4 beta=  0.05: 5279 mechanisms, max lambda = 2.995011 (bound 3)  at e=(0, 1, 2, 3)
+d=3 dM=4 beta=  0.50: 5298 mechanisms, max lambda = 2.593306 (bound 3)  at e=(0, 1, 2, 3)
+d=3 dM=4 beta=  2.00: 5286 mechanisms, max lambda = 2.622631 (bound 3)  at e=(0, 2, 2, 2)
+d=3 dM=4 beta=  5.00: 5253 mechanisms, max lambda = 2.998911 (bound 3)  at e=(0, 2, 2, 2)

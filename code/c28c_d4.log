@@ -1,0 +1,5 @@
+E=[0 1 2 3] beta=3.5: 1498 mechanisms, max lambda = 2.978240 (bound 3)
+E=[0 2 3 4] beta=3.5: 598 mechanisms, max lambda = 2.386868 (bound 3)
+E=[0 1 2 4] beta=0.05: 4932 mechanisms, max lambda = 2.995011 (bound 3)
+E=[0 2 3 4] beta=0.05: 4947 mechanisms, max lambda = 2.151352 (bound 3)
+OVERALL d=4 dM=4: max lambda = 2.995011; flagged infinite (ill-conditioned) = 0

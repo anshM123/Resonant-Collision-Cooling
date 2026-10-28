@@ -1,0 +1,7 @@
+  0/3000: tested 1, running max lambda = 1.000000
+  900/3000: tested 454, running max lambda = 3.000000
+  1200/3000: tested 623, running max lambda = 3.000000
+  2100/3000: tested 1074, running max lambda = 3.000000
+  2700/3000: tested 1358, running max lambda = 3.000000
+d=2 dM=4: 1495 sparse resonant permutations optimised over their resonance sets; max lambda = 3.00000000 (bound 3)
+  argmax pi = [np.int64(6), np.int64(4), np.int64(7), np.int64(3), np.int64(1), np.int64(5), np.int64(0), np.int64(2)]
